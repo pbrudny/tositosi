@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `TosiTosi`,
     siteTitleAlt: `TosiTosi`,
     siteHeadline: `TosiTosi - brave little girl`,
-    siteUrl: `tositosi.pl`,
+    siteUrl: `http://tositosi.eu`,
     siteDescription: `Brave new girl`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
